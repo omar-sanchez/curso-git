@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.10">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="703" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1275" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -143,7 +143,7 @@
         <mxCell id="yEFjHfxqGUTw6uSsKdyn-41" value="Revisión de PR" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
           <mxGeometry x="1004.5" y="128" width="280" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="yEFjHfxqGUTw6uSsKdyn-88" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=none;startFill=0;strokeColor=light-dark(#000000,#FF9090);" edge="1" parent="yEFjHfxqGUTw6uSsKdyn-41" source="yEFjHfxqGUTw6uSsKdyn-42" target="yEFjHfxqGUTw6uSsKdyn-85">
+        <mxCell id="yEFjHfxqGUTw6uSsKdyn-88" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=none;startFill=0;strokeColor=light-dark(#FF9090,#FF9090);" edge="1" parent="yEFjHfxqGUTw6uSsKdyn-41" source="yEFjHfxqGUTw6uSsKdyn-42" target="yEFjHfxqGUTw6uSsKdyn-85">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="140.5" y="392" />
@@ -162,7 +162,7 @@
             <mxPoint x="140.5" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yEFjHfxqGUTw6uSsKdyn-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#FF9090,#FF9090);endArrow=none;endFill=0;dashed=1;startFill=0;" edge="1" parent="yEFjHfxqGUTw6uSsKdyn-41" source="yEFjHfxqGUTw6uSsKdyn-75" target="yEFjHfxqGUTw6uSsKdyn-80">
+        <mxCell id="yEFjHfxqGUTw6uSsKdyn-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF9090);endArrow=none;endFill=0;dashed=1;startFill=0;" edge="1" parent="yEFjHfxqGUTw6uSsKdyn-41" source="yEFjHfxqGUTw6uSsKdyn-75" target="yEFjHfxqGUTw6uSsKdyn-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yEFjHfxqGUTw6uSsKdyn-75" value="QE Review" style="html=1;whiteSpace=wrap;" vertex="1" parent="yEFjHfxqGUTw6uSsKdyn-41">
